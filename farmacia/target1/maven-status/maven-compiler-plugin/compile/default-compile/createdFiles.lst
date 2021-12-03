@@ -1,0 +1,4 @@
+com\bd\crud\crud\repositorio\repositoriocliente.class
+com\bd\crud\crud\controlador\controladorcliente.class
+com\bd\crud\crud\CrudApplication.class
+com\bd\crud\crud\modelo\modelocliente.class
